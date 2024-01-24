@@ -1,0 +1,30 @@
+:root {
+    // colors will be defined here
+    --body-bg: #fff;
+    --theme-primary-color: #0d3c9f;
+    --theme-secondary-color: #ff7800;
+    --theme-black-color: #22212f;
+    --theme-gray-dark: #575c6b;
+    --theme-gray: #9ca2b1;
+    --theme-gray-light: #dad9df;
+    --theme-success-color: #25b27e;
+    --theme-warning-color: #fd9e2f;
+    --theme-error-color: #fd4d45;
+    --theme-app-logo-text-color: #04152b;
+    --theme-header-menu-text-color: #393939;
+    --theme-gray-bg-color: #f8fbff;
+    --theme-footer-bg-color: #222222;
+
+    //const value will be defined here
+    --header-height: 80px;
+    --footer-height: 320px;
+
+    // custom (back, next)button height, width
+    --btn-width: 132px;
+    --btn-height: 48px;
+
+    // others value will be defined here
+    --theme-shadow: 0px 2px 42px rgba(0, 0, 0, 0.06);
+    --bs-blue: var(--theme-primary-color);
+    --container-max-width: 1320px;
+}
